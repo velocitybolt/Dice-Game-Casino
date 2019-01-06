@@ -1,5 +1,5 @@
 pragma solidity ^0.4.17;
-
+// Author: Murtaza Meerza
 contract Craps {
   //Owner, Player, State of Game, Player Tracker, Wager, Sum of Two Die, Control Bool
   address public creator;
