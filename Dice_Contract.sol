@@ -1,5 +1,5 @@
 pragma solidity ^0.4.17;
-
+// Author: Murtaza Meerza
 contract diceGame {
     // Address of Creator & Players (Tracks Duplicates), The Sum of two 6 Sided Die
     address public creator;
